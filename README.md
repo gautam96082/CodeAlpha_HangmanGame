@@ -59,6 +59,6 @@ This project demonstrates:
 * User input handling
 * Modular programming
 
-## Author
+## About Me
 
-Gautam Singh
+Hi, I'm Gautam Singh, a BCA student with a strong interest in Python programming, web development, and software development. I enjoy building practical projects that improve my problem-solving skills and help me gain hands-on experience in programming
